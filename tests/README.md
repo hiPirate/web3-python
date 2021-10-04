@@ -5,6 +5,7 @@
 ### **Table of Contents**
   - [Test Web3](#test-web3)
   - [Test Infura Node](#test-infura-node)
+  - [Test Deploy](#test-deploy)
 
 ---
 
