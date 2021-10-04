@@ -1,5 +1,9 @@
 ## **w3p: A Web3 + Python Project**
-This is mainly just a personal repository while I'm learning web3.py. I'll be posting some different test/verification scripts, Solidity contracts (Called from Python and Solidity source), and possibly much more.
+This is mainly a personal repository to store my code and notes while I'm learning the [web3.py](https://web3py.readthedocs.io/en/stable/index.html) Python library.
+
+Feel free to use anything you find on here for any purpose your heart desires. I am definitely okay with helping others learn about Cryptocurrency / Solidity development and the idea of Open Source.
+
+I'll be adding different Python scripts to control Solidity and interact with Ethereum as I progress through the classes and learn.
 
 ---
 
