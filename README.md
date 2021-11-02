@@ -1,4 +1,4 @@
-## **w3p: A Web3 + Python Project**
+## **web3-python: A Web3 + Python Project**
 This is mainly a personal repository to store my code and notes while I'm learning the [web3.py](https://web3py.readthedocs.io/en/stable/index.html) Python library.
 
 Feel free to use anything you find on here for any purpose your heart desires. I am definitely okay with helping others learn about Cryptocurrency / Solidity development and the idea of Open Source.
